@@ -1,5 +1,5 @@
 class AssetManager {
-    //met qua troi met
+    
     constructor() {
         this.successCount = 0;
         this.errorCount = 0;
