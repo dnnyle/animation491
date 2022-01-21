@@ -13,6 +13,6 @@ class lavafish{
     };
 
     draw(ctx){
-        this.animator.drawFrame(this.game.clockTick, ctx, this.x, 545);
+        this.animator.drawFrame(this.game.clockTick, ctx, this.x, 600);
     };
 };
